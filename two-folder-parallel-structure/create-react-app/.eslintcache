@@ -1,0 +1,44 @@
+[
+  {
+    "/Users/sevenSquareTech/repositories/cra-to-next/two-folder-parallel-structure/create-react-app/src/App.js":
+      "1",
+    "/Users/sevenSquareTech/repositories/cra-to-next/two-folder-parallel-structure/create-react-app/src/components/Dogs.js":
+      "2",
+    "/Users/sevenSquareTech/repositories/cra-to-next/two-folder-parallel-structure/create-react-app/src/index.js":
+      "3",
+  },
+  { size: 1088, mtime: 1612125716934, results: "4", hashOfConfig: "5" },
+  { size: 91, mtime: 1612125768117, results: "6", hashOfConfig: "5" },
+  { size: 500, mtime: 1612001627206, results: "7", hashOfConfig: "5" },
+  {
+    filePath: "8",
+    messages: "9",
+    errorCount: 0,
+    warningCount: 0,
+    fixableErrorCount: 0,
+    fixableWarningCount: 0,
+  },
+  "16pwlyf",
+  {
+    filePath: "10",
+    messages: "11",
+    errorCount: 0,
+    warningCount: 0,
+    fixableErrorCount: 0,
+    fixableWarningCount: 0,
+  },
+  {
+    filePath: "12",
+    messages: "13",
+    errorCount: 0,
+    warningCount: 0,
+    fixableErrorCount: 0,
+    fixableWarningCount: 0,
+  },
+  "/Users/sevenSquareTech/repositories/cra-to-next/two-folder-parallel-structure/create-react-app/src/App.js",
+  [],
+  "/Users/sevenSquareTech/repositories/cra-to-next/two-folder-parallel-structure/create-react-app/src/components/Dogs.js",
+  [],
+  "/Users/sevenSquareTech/repositories/cra-to-next/two-folder-parallel-structure/create-react-app/src/index.js",
+  [],
+];

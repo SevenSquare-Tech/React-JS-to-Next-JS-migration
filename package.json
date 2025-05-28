@@ -1,0 +1,21 @@
+{
+  "name": "react-to-next",
+  "version": "1.0.0",
+  "description": "Migrate parts of Create React App to NextJS step by step while being with both in production.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SevenSquare-Tech/React-JS-to-Next-JS-migration"
+  },
+  "keywords": [
+    "NextJS",
+    "Create",
+    "React",
+    "App"
+  ],
+  "author": "Seven Square TechnoSoft",
+  "license": "ISC"
+}
