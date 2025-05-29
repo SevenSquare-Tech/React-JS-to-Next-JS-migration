@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Next.js](https://nextjs.org/) with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Want a guide for [[ReactJs to Next.Js migration?](https://www.sevensquaretech.com/reactjs-to-nextjs-migration-guide/)]
+
 ## Motivation
 
 Idea on how to easier migrate parts of Create React App to NextJS step by step while being with both in production in the meantime.
